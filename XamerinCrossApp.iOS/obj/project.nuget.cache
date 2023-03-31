@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCYM78SJD+MsGHg3VC9G/YFmSfU+eJdWJhErTEhoSA48Lc2Wf7lIbM58Y7S0jHaTViwzCVo3ZFIASnfrq08qKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rdram\\source\\repos\\XamerinCrossApp\\XamerinCrossApp.iOS\\XamerinCrossApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdram\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rdram\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\rdram\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
